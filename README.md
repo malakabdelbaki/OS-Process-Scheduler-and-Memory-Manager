@@ -1,4 +1,4 @@
-# Project Title: Process Scheduler and Memory Manager
+# Process Scheduler and Memory Manager
 
 ## Overview
 
